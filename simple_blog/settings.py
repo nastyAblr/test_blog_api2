@@ -25,7 +25,7 @@ SECRET_KEY = 'e_tv+qr-p9)3^v1-e%+3wf!vhzu@&vt4or#(_j4i-m(6451pmn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [‘*’]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
